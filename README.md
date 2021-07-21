@@ -2,7 +2,7 @@
 I Just recreated this Ruby Terminal using python.
 I am Just a beginner to this programming language.
 You can Customize this Terminal For Hacking Too.
-
+It has a Dynamic path 
 
 # Change the directory name and format according to your system.
 you can change it with the help of comments in the program.
