@@ -44,7 +44,7 @@ type "exit" to close the program.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thevast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevast" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the vast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the vast" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/The Vast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the vast" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
